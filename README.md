@@ -29,4 +29,4 @@ Este proyecto simula una aplicación web para realizar pedidos de pizzas en una 
 
 ## Instalación
 
-   git clone: 
+   git clone: https://github.com/Alesso-ai/DWES_tar3_Ruiz_Prieto_Alejandro.git
